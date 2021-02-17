@@ -2,7 +2,7 @@
 name = "tetsy-snappy"
 version = "0.1.0"
 authors = ["Parity Technologies <admin@parity.io>"]
-license = "MIT OR Apache2.0"
+license = "MIT OR Apache-2.0"
 repository = "https://github.com/tetcoin/tetsy-rust-snappy"
 description = "Rust bindings for the snappy compression library"
 keywords = ["snappy"]
