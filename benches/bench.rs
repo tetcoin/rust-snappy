@@ -9,7 +9,7 @@
 #![feature(test)]
 extern crate test;
 
-extern crate parity_snappy as snappy;
+extern crate tetsy_snappy as snappy;
 extern crate rand;
 
 #[cfg(test)]

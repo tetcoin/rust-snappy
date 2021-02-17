@@ -8,12 +8,12 @@
 
 //! Snappy compression bindings.
 extern crate libc;
-extern crate parity_snappy_sys;
+extern crate tetsy_snappy_sys;
 #[cfg(test)]
 extern crate rand;
 
 use libc::{c_char, size_t};
-use parity_snappy_sys as snappy;
+use tetsy_snappy_sys as snappy;
 use std::fmt;
 
 /// Attempted to decompress an uncompressed buffer.

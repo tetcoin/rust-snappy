@@ -1,9 +1,9 @@
 [package]
-name = "parity-snappy-sys"
+name = "tetsy-snappy-sys"
 version = "0.1.2"
 authors = ["Parity Technologies <admin@parity.io>"]
 license = "GPL-3.0"
-repository = "https://github.com/paritytech/rust-snappy.git"
+repository = "https://github.com/tetcoin/tetsy-rust-snappy.git"
 description = "Native bindings to libsnappy"
 keywords = ["ffi", "snappy"]
 
